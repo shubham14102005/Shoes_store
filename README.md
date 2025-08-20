@@ -20,10 +20,10 @@ A php-based e-commerce web application for selling footwear online. It enables c
 ---
 
 ## 🛠 Tech Stack
-- **Backend:** Django (Python)
+- **Backend:** php
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript
-- **Database:** SQLite (default)
-- **Authentication:** Django's built-in auth system
+- **Database:** Phpmyadmin (default)
+  
 
 ---
 
