@@ -1,6 +1,6 @@
 # 👟 Shoes Store
 
-A Django-based e-commerce web application for selling footwear online. It enables customers to browse, search, and purchase shoes while allowing store admins to manage products and orders.
+A php-based e-commerce web application for selling footwear online. It enables customers to browse, search, and purchase shoes while allowing store admins to manage products and orders.
 
 ## 📌 Features
 
